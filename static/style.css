@@ -105,7 +105,8 @@ section#inicio {
 }
 
 section#inicio h2{
-    font-size: 6rem;
+    font-size: 5rem;
+    margin-left: 50px;
 }
 
 section#inicio span#subtitle {
@@ -162,14 +163,17 @@ i.menu-mobile {
     display: flex;
   }
   section#inicio h2{
-    font-size: 3.5rem ;
+    font-size: 3rem ;
+    margin-left: 40px;
   }
   section#inicio span#subtitle{
     margin-right: 0;
     font-size: 1rem;
+    margin-left: -30px;
   }
   #main{
       margin-left: 0;
+      
   }
 }
 
