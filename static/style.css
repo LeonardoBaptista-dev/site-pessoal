@@ -95,7 +95,7 @@ background: #b3b4b4;
 
 }
 section#inicio {
-    background-image: url("./img/6.jpeg");
+    background-image: url("./img/2.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -106,7 +106,7 @@ section#inicio {
 
 section#inicio h2{
     font-size: 5rem;
-    margin-left: 50px;
+    margin-left: 30px;
 }
 
 section#inicio span#subtitle {
@@ -177,6 +177,9 @@ i.menu-mobile {
   }
 }
 
+
+
+
 *::-webkit-scrollbar {
     width: 10px;               /* width of the entire scrollbar */
   }
@@ -190,3 +193,8 @@ i.menu-mobile {
   *::-webkit-scrollbar-thumb {
     background-color: #464646;    /* color of the scroll thumb */
   }
+
+  .section-bg{
+    background-color: #eeeeee;
+  }
+  
