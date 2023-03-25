@@ -56,6 +56,27 @@ body{
 background: #b3b4b4;
 }
 
+.linkedin {
+    margin-left: 3.5px;
+}
+
+.github {
+    margin-left: 3.5px;
+}
+
+.youtube {
+    margin-left: 3.5px;
+}
+
+.instagram {
+    margin-left: 4px;
+    background: #4e4e4e;
+    color: #fff;
+    margin-right: 4px;
+    border-radius: 50%;
+    transition: 0.3s;
+}
+
 .nav-menu{
     padding: 1.5rem;
 }
